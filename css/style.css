@@ -1,0 +1,68 @@
+/* Set background color */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif; /* Set default font */
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styles */
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+#studentId {
+    font-style: italic; /* Italic font style */
+    color: #777; /* Grey color */
+    text-align: center;/* Add some space below the paragraph */
+}
+section {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for sections */
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    margin-bottom: 20px;
+}
+
+/* Button styles */
+button {
+    background-color: #6a41b6; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #231d44;
+}
+
+/* Story paragraph styles */
+#story {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9; 
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    min-height: 100px; 
+}
+
+/* Heading styles */
+h2 {
+    color: #333; 
+}
+
+/* Paragraph styles */
+p {
+    color: #666; 
+}
+
